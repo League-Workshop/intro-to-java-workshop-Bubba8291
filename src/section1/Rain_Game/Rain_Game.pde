@@ -15,5 +15,5 @@ void start() {
 }
 
 void draw() {
-  bucket.get
+  bucket.get(120, 150);
 }
